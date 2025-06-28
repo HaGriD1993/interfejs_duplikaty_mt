@@ -1,0 +1,7 @@
+streamlit
+azure-storage-blob
+pandas
+matplotlib
+python-dotenv
+reportlab
+requests
