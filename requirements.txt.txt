@@ -1,8 +1,8 @@
-streamlit
-azure-storage-blob
-azure-core
-pandas
-matplotlib
-python-dotenv
+streamlit>=1.24.1
+azure-storage-blob>=12.0.0
+azure-core>=1.7.0
+pandas>=2.0
+matplotlib>=3.5
 reportlab
+python-dotenv
 requests
