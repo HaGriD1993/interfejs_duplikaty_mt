@@ -1,11 +1,8 @@
 streamlit
 azure-storage-blob
+azure-core
 pandas
 matplotlib
-python-dotenv
 reportlab
+python-dotenv
 requests
-io
-uuid
-os
-
